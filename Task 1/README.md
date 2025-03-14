@@ -85,8 +85,7 @@ predicted_species = label_encoder.inverse_transform(prediction)
 print("Predicted Species:", predicted_species[0])
 ```
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+
 
 ---
 
